@@ -1,6 +1,6 @@
 # Здесь введите токен бота, который вам вернул botFather
 
-token = '289015761:AAHpJbc97IE0Ht75vOzcKY_jJJVV9ivxwF8'
+token = 'token'
 
 startAnswer = "Какое событие вас интересует?"
 
